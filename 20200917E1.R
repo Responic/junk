@@ -6,3 +6,6 @@ Keeling_Data["month"]
 Keeling_Data[2, 2]
 Keeling_Data[, 2]
 Keeling_Data[2, ]
+
+#add a new line
+plot(X,Y)
